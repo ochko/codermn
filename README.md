@@ -1,4 +1,4 @@
 codermn
 =======
 
-Moved to ochko/prudge
+Moved to https://github.com/ochko/prudge
